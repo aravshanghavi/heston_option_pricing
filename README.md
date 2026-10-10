@@ -107,7 +107,7 @@ Setting σ = 0 and v₀ = θ collapses Heston to Black–Scholes with volatility
 
 ## Results (reference run)
 
-All figures come from the committed notebook outputs (AAPL, October 2025 snapshot, Tesla T4). Because the notebook pulls live data, a re-run on another date will produce different numbers.
+Figures below are from the October 2025 reference run (AAPL, S₀ = 262.82, Tesla T4). Because the notebook pulls live data, a re-run on another date will produce different numbers.
 
 ### Data quality
 
